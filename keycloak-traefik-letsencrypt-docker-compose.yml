@@ -1,4 +1,4 @@
-keycloak.trcont.ru# Keycloak with Let's Encrypt in a Docker Compose
+# Keycloak with Let's Encrypt in a Docker Compose
 
 
 # Install the Docker Engine by following the official guide: https://docs.docker.com/engine/install/
